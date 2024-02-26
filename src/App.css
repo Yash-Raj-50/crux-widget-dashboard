@@ -1,38 +1,153 @@
-.App {
-  text-align: center;
+/* styles for navbar tabs using antd */
+.ant-tabs-nav {
+    @apply !m-0 p-4;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.ant-tabs-nav-wrap {
+    @apply mx-2;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.ant-tabs-nav-list {
+    @apply gap-2;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.ant-tabs-card.ant-tabs-top>.ant-tabs-nav .ant-tabs-tab-active {
+    @apply !border-b-inherit !rounded-xl !bg-[#F7F6FD] border-[#E0DFF8] !text-[#5E5ADB];
 }
 
-.App-link {
-  color: #61dafb;
+.ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    @apply !text-[#5E5ADB];
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ant-tabs-card.ant-tabs-top>.ant-tabs-nav .ant-tabs-tab {
+    @apply !border-b-inherit !rounded-[10px] text-sm min-w-32 flex justify-between bg-white text-[#8D8D8D];
+}
+
+.ant-tabs>.ant-tabs-nav .ant-tabs-nav-add {
+    @apply flex items-center justify-center rounded-[10px] bg-[#5E5ADB]/[0.05] border-[#5E5ADB]/[0.15];
+}
+
+.ant-tabs>.ant-tabs-nav .ant-tabs-nav-add:hover {
+    @apply flex items-center justify-center rounded-[10px] bg-[#5E5ADB]/[0.15] border-[#5E5ADB]/[0.15];
+}
+
+/* styles for tables using antd */
+
+.widgetAntdTableBlack .ant-table-thead>tr>th {
+    @apply !text-[#F1F1F2] bg-[#282828];
+}
+
+.widgetAntdTableBlack .ant-table-tbody>tr>td {
+    @apply !text-white/[0.65] bg-[#282828];
+}
+
+.widgetAntdTableWhite .ant-table-thead>tr>th {
+    @apply !text-[#5E5ADB] bg-white;
+}
+
+.widgetAntdTableWhite .ant-table-tbody>tr>td {
+    @apply !text-[#474747]/[0.65];
+}
+
+.widgetAntdTablePurple .ant-table-thead>tr>th {
+    @apply !text-white bg-[#5E5ADB];
+}
+
+.widgetAntdTablePurple .ant-table-tbody>tr>td {
+    @apply !text-white/[0.65] bg-[#5E5ADB];
+}
+
+
+.widgetAntdTablePurple table:hover,
+tr:hover,
+thead:hover {
+    background: #5E5ADB !important;
+}
+
+.widgetAntdTableBlack table:hover,
+tr:hover,
+thead:hover {
+    background: #20293c !important;
+}
+
+.widgetAntdTableWhite table:hover,
+tr:hover,
+thead:hover {
+    background: inherit !important;
+}
+
+
+.ant-table-tbody>tr.ant-table-row:hover>td {
+    background: none !important;
+}
+
+.ant-table-wrapper .ant-table-thead>tr>th {
+    @apply border-0 text-xs py-2 px-0;
+}
+
+.ant-table-wrapper .ant-table-tbody>tr>td {
+    @apply border-0 border-r-[1px] px-0 py-1 border-[#F6F6F6]/[0.07] text-xs;
+}
+
+.ant-table-wrapper .ant-table-thead>tr>th:not(:last-child):not(.ant-table-selection-column):not(.ant-table-row-expand-icon-cell):not([colspan])::before {
+    @apply w-0;
+}
+
+/* styles for table selectables */
+
+/* .my-data-selectable .ant-segmented-group {
+    @apply gap-0;
+} */
+.widgetAntdTableBlack .widgetAntdTableWhite .ant-segmented-item {
+    @apply w-12;
+}
+
+.widgetAntdTableBlack .ant-segmented-item:hover {
+    @apply !text-white;
+}
+
+.widgetAntdTableBlack .ant-segmented-item-selected {
+    @apply bg-inherit border-b-2 text-white font-bold w-14;
+}
+
+.widgetAntdTableWhite .ant-segmented-item {
+    @apply text-[#BBBBBB];
+}
+
+.widgetAntdTableWhite .ant-segmented-item:hover {
+    @apply !text-[#5E5ADB];
+}
+
+.widgetAntdTableWhite .ant-segmented-item-selected {
+    @apply bg-inherit border-b-2 border-[#5E5ADB] text-[#5E5ADB] font-bold shadow-none w-14;
+}
+
+.widgetAntdTablePurple .ant-segmented-item {
+    @apply text-white;
+}
+
+.widgetAntdTablePurple .ant-segmented-item:hover {
+    @apply !text-white;
+}
+
+.widgetAntdTablePurple .ant-segmented-item-selected {
+    @apply bg-inherit border-b-2 border-white text-white font-bold shadow-none w-14;
+}
+
+/* for add widget antd model */
+
+.add-widget-modal .ant-modal-content {
+    @apply p-8 pt-12;
+}
+
+.add-widget-modal .ant-modal-close {
+    @apply top-[36px] right-[24px];
+}
+
+.add-widget-modal .ant-segmented-group {
+    @apply h-full;
+}
+
+.add-widget-modal .ant-segmented-item {
+    @apply w-12 flex justify-center;
 }

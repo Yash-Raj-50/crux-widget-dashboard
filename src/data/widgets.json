@@ -1,0 +1,566 @@
+[
+    {
+        "id": 1,
+        "title": "title1",
+        "board": "Overview",
+        "color": 0,
+        "type": 1,
+        "subtype": 0,
+        "height": 1,
+        "width": 1,
+        "data":[
+            [
+                {"Product":"Reusable", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable2", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource2", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound2", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials2", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable3", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource3", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound3", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials3", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable4", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource4", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound4", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials4", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Total", "Q1-23":"8%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable2", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource2", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound2", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials2", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable3", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource3", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound3", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials3", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable4", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource4", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound4", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials4", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Total", "Q1-23":"12%", "Q2-23":"14%", "Q3-23":"14%", "Q4-23":"25%", "Q1-24":"6%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable2", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource2", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound2", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials2", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable3", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource3", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound3", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials3", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable4", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource4", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound4", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials4", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Total", "Q1-23":"16%", "Q2-23":"16%", "Q3-23":"21%", "Q4-23":"30%", "Q1-24":"9%"}
+            ]
+        ]
+    },
+    {
+        "id": 2,
+        "title": "title2",
+        "board": "Overview",
+        "color": 2,
+        "type": 1,
+        "subtype": 0,
+        "height": 1,
+        "width": 1,
+        "data":[
+            [
+                {"Product":"Reusable", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable2", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource2", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound2", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials2", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable3", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource3", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound3", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials3", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable4", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource4", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound4", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials4", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Total", "Q1-23":"8%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable2", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource2", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound2", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials2", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable3", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource3", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound3", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials3", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable4", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource4", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound4", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials4", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Total", "Q1-23":"12%", "Q2-23":"14%", "Q3-23":"14%", "Q4-23":"25%", "Q1-24":"6%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable2", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource2", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound2", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials2", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable3", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource3", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound3", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials3", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable4", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource4", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound4", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials4", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Total", "Q1-23":"16%", "Q2-23":"16%", "Q3-23":"21%", "Q4-23":"30%", "Q1-24":"9%"}
+            ]
+        ]
+    },
+    {
+        "id": 3,
+        "title": "title3",
+        "board": "Overview",
+        "color": 0,
+        "type": 0,
+        "subtype": 0,
+        "height": 1,
+        "width": 4,
+        "data": {
+            "today": "Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in ",
+            "yesterday": "Yesterday, Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in ",
+            "lastWeek": "Last Week, Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in "
+        }
+    },
+    {
+        "id": 4,
+        "title": "title4",
+        "board": "Overview",
+        "color": 1,
+        "type": 1,
+        "subtype": 0,
+        "height": 2,
+        "width": 2,
+        "data":[
+            [
+                {"Product":"Reusable", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable2", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource2", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound2", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials2", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable3", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource3", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound3", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials3", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable4", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource4", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound4", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials4", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Total", "Q1-23":"8%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable2", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource2", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound2", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials2", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable3", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource3", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound3", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials3", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable4", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource4", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound4", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials4", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Total", "Q1-23":"12%", "Q2-23":"14%", "Q3-23":"14%", "Q4-23":"25%", "Q1-24":"6%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable2", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource2", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound2", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials2", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable3", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource3", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound3", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials3", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable4", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource4", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound4", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials4", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Total", "Q1-23":"16%", "Q2-23":"16%", "Q3-23":"21%", "Q4-23":"30%", "Q1-24":"9%"}
+            ]
+        ]
+    },
+    {
+        "id": 5,
+        "title": "title5",
+        "board": "Overview",
+        "color": 0,
+        "type": 0,
+        "subtype": 0,
+        "height": 1,
+        "width": 2,
+        "data": {
+            "today": "Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in ",
+            "yesterday": "Yesterday, Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in ",
+            "lastWeek": "Last Week, Based on the provided data, the most effective hour of the day to send an email across all stores for all time, with the highest engagement after opening, is at 15:00(3 PM), with a total of 5041 emails opened. The next best hours are 16:00 (4 PM) and 17:00 (5 PM) with 5007 and 4785 emails opened respectively. There is a noticeable drop in "
+        }
+    },
+    {
+        "id": 6,
+        "title": "title6",
+        "board": "Overview",
+        "color": 1,
+        "type": 2,
+        "subtype": 2,
+        "height": 3,
+        "width": 1,
+        "data": [
+            [
+                [{"id":"Google","value":20000,"label":"Google","color":"#FF0000"},{"id":"Instagram","value":27000,"label":"Instagram","color":"#00FF00"},{"id":"Facebook","value":10000,"label":"Facebook","color":"#0000FF"},{"id":"Tiktok","value":4000,"label":"Tiktok","color":"#FFFF00"},{"id":"Microsoft","value":7000,"label":"Microsoft","color":"#FF00FF"}],
+                [{"id":"Christmas25","value":5700,"label":"Christmas25","color":"#FF0000"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25","color":"#00FF00"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25","color":"#0000FF"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25","color":"#FFFF00"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25","color":"#FF00FF"}]
+            ],
+            [
+                [{"id":"Google","value":11000,"label":"Google","color":"#FF0000"},{"id":"Instagram","value":5000,"label":"Instagram","color":"#00FF00"},{"id":"Facebook","value":9000,"label":"Facebook","color":"#0000FF"},{"id":"Tiktok","value":8000,"label":"Tiktok","color":"#FFFF00"},{"id":"Microsoft","value":9000,"label":"Microsoft","color":"#FF00FF"}],
+                [{"id":"Christmas25","value":5500,"label":"Christmas25","color":"#FF0000"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25","color":"#00FF00"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25","color":"#0000FF"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25","color":"#FFFF00"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25","color":"#FF00FF"}]
+            ],
+            [
+                [{"id":"Google","value":27000,"label":"Google","color":"#FF0000"},{"id":"Instagram","value":12000,"label":"Instagram","color":"#00FF00"},{"id":"Facebook","value":13000,"label":"Facebook","color":"#0000FF"},{"id":"Tiktok","value":24000,"label":"Tiktok","color":"#FFFF00"},{"id":"Microsoft","value":20000,"label":"Microsoft","color":"#FF00FF"}],
+                [{"id":"GoogleMas25","value":6200,"label":"GoogleMas25","color":"#FF0000"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25","color":"#00FF00"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25","color":"#0000FF"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25","color":"#FFFF00"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25","color":"#FF00FF"}]
+            ]
+        ]
+    },
+    {
+        "id": 7,
+        "title": "title7",
+        "board": "Overview",
+        "color": 0,
+        "type": 2,
+        "subtype": 0,
+        "height": 1,
+        "width": 1,
+        "data": [
+            [
+                [{"id":"Google","value":20000,"label":"Google"},{"id":"Instagram","value":27000,"label":"Instagram"},{"id":"Facebook","value":10000,"label":"Facebook"},{"id":"Tiktok","value":4000,"label":"Tiktok"},{"id":"Microsoft","value":7000,"label":"Microsoft"}],
+                [{"id":"Christmas25","value":5700,"label":"Christmas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ],
+            [
+                [{"id":"Google","value":11000,"label":"Google"},{"id":"Instagram","value":5000,"label":"Instagram"},{"id":"Facebook","value":9000,"label":"Facebook"},{"id":"Tiktok","value":8000,"label":"Tiktok"},{"id":"Microsoft","value":9000,"label":"Microsoft"}],
+                [{"id":"Christmas25","value":5500,"label":"Christmas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ],
+            [
+                [{"id":"Google","value":27000,"label":"Google"},{"id":"Instagram","value":12000,"label":"Instagram"},{"id":"Facebook","value":13000,"label":"Facebook"},{"id":"Tiktok","value":24000,"label":"Tiktok"},{"id":"Microsoft","value":20000,"label":"Microsoft"}],
+                [{"id":"GoogleMas25","value":6200,"label":"GoogleMas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ]
+        ]
+    },
+    {
+        "id": 8,
+        "title": "title8",
+        "board": "Overview",
+        "color": 0,
+        "type": 2,
+        "subtype": 2,
+        "height": 2,
+        "width": 1,
+        "data": [
+            [
+                [{"id":"Google","value":20000,"label":"Google"},{"id":"Instagram","value":27000,"label":"Instagram"},{"id":"Facebook","value":10000,"label":"Facebook"},{"id":"Tiktok","value":4000,"label":"Tiktok"},{"id":"Microsoft","value":7000,"label":"Microsoft"}],
+                [{"id":"Christmas25","value":5700,"label":"Christmas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ],
+            [
+                [{"id":"Google","value":11000,"label":"Google"},{"id":"Instagram","value":5000,"label":"Instagram"},{"id":"Facebook","value":9000,"label":"Facebook"},{"id":"Tiktok","value":8000,"label":"Tiktok"},{"id":"Microsoft","value":9000,"label":"Microsoft"}],
+                [{"id":"Christmas25","value":5500,"label":"Christmas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ],
+            [
+                [{"id":"Google","value":27000,"label":"Google"},{"id":"Instagram","value":12000,"label":"Instagram"},{"id":"Facebook","value":13000,"label":"Facebook"},{"id":"Tiktok","value":24000,"label":"Tiktok"},{"id":"Microsoft","value":20000,"label":"Microsoft"}],
+                [{"id":"GoogleMas25","value":6200,"label":"GoogleMas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ]
+        ]
+    },
+    {
+        "id": 9,
+        "title": "title9",
+        "board": "Overview",
+        "color": 1,
+        "type": 1,
+        "subtype": 0,
+        "height": 1,
+        "width": 1,
+        "data": [
+            [
+                {"Product":"Reusable", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable2", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource2", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound2", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials2", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable3", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource3", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound3", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials3", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable4", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource4", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound4", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials4", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Total", "Q1-23":"8%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable2", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource2", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound2", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials2", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable3", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource3", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound3", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials3", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable4", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource4", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound4", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials4", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Total", "Q1-23":"12%", "Q2-23":"14%", "Q3-23":"14%", "Q4-23":"25%", "Q1-24":"6%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable2", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource2", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound2", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials2", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable3", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource3", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound3", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials3", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable4", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource4", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound4", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials4", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Total", "Q1-23":"16%", "Q2-23":"16%", "Q3-23":"21%", "Q4-23":"30%", "Q1-24":"9%"}
+            ]
+        ]
+    },
+    {
+        "id": 10,
+        "title": "title10",
+        "board": "Overview",
+        "color": 0,
+        "type": 2,
+        "subtype": 1,
+        "height": 2,
+        "width": 1,
+        "data": [
+            [
+                [{"id":"Google","value":20000,"label":"Google"},{"id":"Instagram","value":27000,"label":"Instagram"},{"id":"Facebook","value":10000,"label":"Facebook"},{"id":"Tiktok","value":4000,"label":"Tiktok"},{"id":"Microsoft","value":7000,"label":"Microsoft"}],
+                [{"id":"Christmas25","value":5700,"label":"Christmas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ],
+            [
+                [{"id":"Google","value":11000,"label":"Google"},{"id":"Instagram","value":5000,"label":"Instagram"},{"id":"Facebook","value":9000,"label":"Facebook"},{"id":"Tiktok","value":8000,"label":"Tiktok"},{"id":"Microsoft","value":9000,"label":"Microsoft"}],
+                [{"id":"Christmas25","value":5500,"label":"Christmas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ],
+            [
+                [{"id":"Google","value":27000,"label":"Google"},{"id":"Instagram","value":12000,"label":"Instagram"},{"id":"Facebook","value":13000,"label":"Facebook"},{"id":"Tiktok","value":24000,"label":"Tiktok"},{"id":"Microsoft","value":20000,"label":"Microsoft"}],
+                [{"id":"GoogleMas25","value":6200,"label":"GoogleMas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ]
+        ]
+    },
+    {
+        "id": 11,
+        "title": "title11",
+        "board": "Overview",
+        "color": 1,
+        "type": 1,
+        "subtype": 0,
+        "height": 1,
+        "width": 1,
+        "data": [
+            [
+                {"Product":"Reusable", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable2", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource2", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound2", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials2", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable3", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource3", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound3", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials3", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable4", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource4", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound4", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials4", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Total", "Q1-23":"8%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable2", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource2", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound2", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials2", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable3", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource3", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound3", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials3", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable4", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource4", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound4", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials4", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Total", "Q1-23":"12%", "Q2-23":"14%", "Q3-23":"14%", "Q4-23":"25%", "Q1-24":"6%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable2", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource2", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound2", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials2", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable3", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource3", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound3", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials3", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable4", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource4", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound4", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials4", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Total", "Q1-23":"16%", "Q2-23":"16%", "Q3-23":"21%", "Q4-23":"30%", "Q1-24":"9%"}
+            ]
+        ]
+    },
+    {
+        "id": 12,
+        "title": "title12",
+        "board": "Overview",
+        "color": 2,
+        "type": 1,
+        "subtype": 0,
+        "height": 1,
+        "width": 1,
+        "data": [
+            [
+                {"Product":"Reusable", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable2", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource2", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound2", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials2", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable3", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource3", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound3", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials3", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Reusable4", "Q1-23":"10%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Natural Resource4", "Q1-23":"2%", "Q2-23":"11%", "Q3-23":"11%", "Q4-23":"11%", "Q1-24":"11%"},
+                {"Product":"Compost Compound4", "Q1-23":"7%", "Q2-23":"5%", "Q3-23":"5%", "Q4-23":"5%", "Q1-24":"5%"},
+                {"Product":"Reusable Materials4", "Q1-23":"3%", "Q2-23":"4%", "Q3-23":"4%", "Q4-23":"4%", "Q1-24":"4%"},
+                {"Product":"Total", "Q1-23":"8%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable2", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource2", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound2", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials2", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable3", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource3", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound3", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials3", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Reusable4", "Q1-23":"15%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Natural Resource4", "Q1-23":"4%", "Q2-23":"22%", "Q3-23":"22%", "Q4-23":"22%", "Q1-24":"22%"},
+                {"Product":"Compost Compound4", "Q1-23":"14%", "Q2-23":"10%", "Q3-23":"10%", "Q4-23":"10%", "Q1-24":"10%"},
+                {"Product":"Reusable Materials4", "Q1-23":"6%", "Q2-23":"8%", "Q3-23":"8%", "Q4-23":"8%", "Q1-24":"8%"},
+                {"Product":"Total", "Q1-23":"12%", "Q2-23":"14%", "Q3-23":"14%", "Q4-23":"25%", "Q1-24":"6%"}
+            ],
+            [
+                {"Product":"Reusable", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable2", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource2", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound2", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials2", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable3", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource3", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound3", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials3", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Reusable4", "Q1-23":"20%", "Q2-23":"12%", "Q3-23":"7%", "Q4-23":"20%", "Q1-24":"3%"},
+                {"Product":"Natural Resource4", "Q1-23":"6%", "Q2-23":"33%", "Q3-23":"33%", "Q4-23":"33%", "Q1-24":"33%"},
+                {"Product":"Compost Compound4", "Q1-23":"21%", "Q2-23":"15%", "Q3-23":"15%", "Q4-23":"15%", "Q1-24":"15%"},
+                {"Product":"Reusable Materials4", "Q1-23":"9%", "Q2-23":"12%", "Q3-23":"12%", "Q4-23":"12%", "Q1-24":"12%"},
+                {"Product":"Total", "Q1-23":"16%", "Q2-23":"16%", "Q3-23":"21%", "Q4-23":"30%", "Q1-24":"9%"}
+            ]
+        ]
+    },
+    {
+        "id": 13,
+        "title": "title13",
+        "board": "Overview",
+        "color": 0,
+        "type": 2,
+        "subtype": 2,
+        "height": 1,
+        "width": 1,
+        "data": [
+            [
+                [{"id":"Google","value":20000,"label":"Google"},{"id":"Instagram","value":27000,"label":"Instagram"},{"id":"Facebook","value":10000,"label":"Facebook"},{"id":"Tiktok","value":4000,"label":"Tiktok"},{"id":"Microsoft","value":7000,"label":"Microsoft"}],
+                [{"id":"Christmas25","value":5700,"label":"Christmas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ],
+            [
+                [{"id":"Google","value":11000,"label":"Google"},{"id":"Instagram","value":5000,"label":"Instagram"},{"id":"Facebook","value":9000,"label":"Facebook"},{"id":"Tiktok","value":8000,"label":"Tiktok"},{"id":"Microsoft","value":9000,"label":"Microsoft"}],
+                [{"id":"Christmas25","value":5500,"label":"Christmas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ],
+            [
+                [{"id":"Google","value":27000,"label":"Google"},{"id":"Instagram","value":12000,"label":"Instagram"},{"id":"Facebook","value":13000,"label":"Facebook"},{"id":"Tiktok","value":24000,"label":"Tiktok"},{"id":"Microsoft","value":20000,"label":"Microsoft"}],
+                [{"id":"GoogleMas25","value":6200,"label":"GoogleMas25"},{"id":"BirthdaySpecial25","value":27000,"label":"BirthdaySpecial25"},{"id":"NewYearSpecial25","value":15000,"label":"NewYearSpecial25"},{"id":"BlackFriday25","value":20000,"label":"BlackFriday25"},{"id":"CyberMonday25","value":10000,"label":"CyberMonday25"}]
+            ]
+        ]
+    }
+]
